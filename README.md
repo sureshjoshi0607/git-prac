@@ -1,2 +1,3 @@
 #Note
-Makinng the file to test git.
+
+Making the file to test git.
